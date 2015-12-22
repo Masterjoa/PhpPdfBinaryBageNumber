@@ -1,0 +1,11 @@
+{
+    "name": "materjoa/phppdfbinarypagenumber",
+    "description": "Add binary page numbering to pdf using php",
+    "homepage": "https://github.com/Masterjoa/PhpPdfBinaryPageNumber",
+    "license": "no usage restriction",
+    "require": {
+        "php": ">=5.3.0",
+        "itbz/fpdi": "dev-master"
+    }
+}
+    
